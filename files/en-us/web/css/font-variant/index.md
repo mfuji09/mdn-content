@@ -7,7 +7,7 @@ browser-compat: css.properties.font-variant
 
 {{CSSRef}}
 
-The **`font-variant`** CSS [shorthand property](/en-US/docs/Web/CSS/Shorthand_properties) allows you to set all the font variants for a font.
+The **`font-variant`** CSS [shorthand property](/en-US/docs/Web/CSS/CSS_cascade/Shorthand_properties) allows you to set all the font variants for a font.
 
 You can also set the `<font-variant-css2>` values of `font-variant` defined in CSS Level 2.1, (that is, `normal` or `small-caps`), by using the [`font`](/en-US/docs/Web/CSS/font) shorthand.
 
@@ -120,6 +120,7 @@ p.small {
 
 ## See also
 
-- [`text-transform`](/en-US/docs/Web/CSS/text-transform)
-- [`text-combine-upright`](/en-US/docs/Web/CSS/text-combine-upright)
-- [`text-orientation`](/en-US/docs/Web/CSS/text-orientation)
+- {{cssxref("text-transform")}}
+- {{cssxref("text-combine-upright")}}
+- {{cssxref("text-orientation")}}
+- SVG {{SVGAttr("font-variant")}} attribute

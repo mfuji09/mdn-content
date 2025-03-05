@@ -7,7 +7,7 @@ browser-compat: css.properties.overflow
 
 {{CSSRef}}
 
-The **`overflow`** [CSS](/en-US/docs/Web/CSS) [shorthand property](/en-US/docs/Web/CSS/Shorthand_properties) sets the desired behavior when content does not fit in the element's padding box (overflows) in the horizontal and/or vertical direction.
+The **`overflow`** [CSS](/en-US/docs/Web/CSS) [shorthand property](/en-US/docs/Web/CSS/CSS_cascade/Shorthand_properties) sets the desired behavior when content does not fit in the element's padding box (overflows) in the horizontal and/or vertical direction.
 
 {{EmbedInteractiveExample("pages/css/overflow.html")}}
 
@@ -214,5 +214,6 @@ p.overlay {
 - {{Cssxref("overflow-x")}}, {{Cssxref("overflow-y")}}
 - {{Cssxref("overflow-block")}}, {{Cssxref("overflow-clip-margin")}}, {{Cssxref("overflow-inline")}}
 - {{Cssxref("clip")}}, {{Cssxref("display")}}, {{cssxref("text-overflow")}}, {{cssxref("white-space")}}
-- [CSS overflow](/en-US/docs/Web/CSS/CSS_overflow)
+- SVG {{SVGAttr("overflow")}} attribute
+- [CSS overflow](/en-US/docs/Web/CSS/CSS_overflow) module
 - [Keyboard-only scrolling areas](https://adrianroselli.com/2022/06/keyboard-only-scrolling-areas.html) on adrianroselli.com (2022)

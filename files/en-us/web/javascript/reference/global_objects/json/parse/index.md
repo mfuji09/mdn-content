@@ -50,7 +50,7 @@ The {{jsxref("Object")}}, {{jsxref("Array")}}, string, number, boolean, or `null
 
 ### Exceptions
 
-- {{jsxref("SyntaxError")}}
+- [SyntaxError: JSON.parse: bad parsing](/en-US/docs/Web/JavaScript/Reference/Errors/JSON_bad_parse)
   - : Thrown if the string to parse is not valid JSON.
 
 ## Description
